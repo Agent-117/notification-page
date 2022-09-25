@@ -1,5 +1,4 @@
 const markRead = document.querySelector('#mark');
-const num = document.querySelector('#notif-num');
 const the = document.querySelector('span');
 
 function read() {
