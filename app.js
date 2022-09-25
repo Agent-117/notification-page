@@ -15,8 +15,7 @@ function read() {
     cir.classList.remove('circle');
   }
 
-  num.removeChild(the)
-  num.append(0)
+  the.innerHTML = 0;
 }
 
 markRead.addEventListener('click', read);
